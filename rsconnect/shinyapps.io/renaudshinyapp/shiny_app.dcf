@@ -1,0 +1,10 @@
+name: shiny_app
+title:
+username: renaudshinyapp
+account: renaudshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13620253
+bundleId: 9542006
+url: https://renaudshinyapp.shinyapps.io/shiny_app/
+version: 1
